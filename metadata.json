@@ -1,0 +1,6 @@
+{
+  "name": "Hyper-Local AI Weather Early Warning System",
+  "description": "Smart India Hackathon prototype for hyper-local severe weather prediction (2–6h lead time), GIS risk mapping, and early warning dissemination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
